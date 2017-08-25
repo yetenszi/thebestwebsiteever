@@ -7,10 +7,10 @@ h1 {
        font-size: 50px;
 }
 
-p {
+.text {
        color: white; 
        text-align: center;
-       font-size: 25px;
+       font-size: 35px;
 }
 
 .h1background {
