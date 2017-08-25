@@ -2,13 +2,13 @@ html {
        background-color: black;
 }
 
-text1 {
+#text1 {
        color: white; 
        text-align: center;
        font-size: 35px;
 }
 
-header1 {
+#header1 {
        width: 9999999;
        height: 70;
        padding: 10px;
