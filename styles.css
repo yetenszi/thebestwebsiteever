@@ -6,14 +6,15 @@ html {
        color: white; 
        text-align: center;
        font-size: 35px;
+       font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
 .header1 {
        width: 9999999;
        height: 70;
        padding: 10px;
-       background-color: green;
-       color: lime;
+       background-color: lime;
+       color: black;
        font-size: 50px;
        text-align: center;
        font-family: "Comic Sans MS", cursive, sans-serif;
