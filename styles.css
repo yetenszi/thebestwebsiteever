@@ -1,4 +1,18 @@
+html {
+       background-color: black;
+}
+
 h1 {
-       color: red;
+       color: green;
        font-size: 50px;
+}
+
+p {
+       color: white;      
+}
+
+div {
+       width: -1;
+       padding: 10px;
+       color: green;
 }
