@@ -4,8 +4,8 @@ html {
 
 @font-face {
     font-family: 'pixeledregular';
-    src: url('./materialize/fonts/pixeled-webfont.woff2') format('woff2'),
-         url('./materialize/fonts/pixeled-webfont.woff') format('woff');
+    src: url('https://yetenszi.github.io/thebestwebsiteever/materialize/fonts/pixeled-webfont.woff2') format('woff2'),
+         url('https://yetenszi.github.io/thebestwebsiteever/materialize/fonts/pixeled-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -13,8 +13,8 @@ html {
 
 @font-face {
     font-family: 'shelter_coderegular';
-    src: url('./materialize/fonts/shelter_code-webfont.woff2') format('woff2'),
-         url('./materialize/fonts/shelter_code-webfont.woff') format('woff');
+    src: url('https://yetenszi.github.io/thebestwebsiteever/materialize/fonts/shelter_code-webfont.woff2') format('woff2'),
+         url('https://yetenszi.github.io/thebestwebsiteever/materialize/fonts/shelter_code-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
