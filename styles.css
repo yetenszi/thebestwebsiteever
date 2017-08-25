@@ -21,10 +21,12 @@ html {
 }
 
 .text1 {
+       position: relative;
        color: white; 
        text-align: center;
        font-size: 35px;
        font-family: "shelter_coderegular", Arial, sans-serif;
+       top: 15px;
 }
 
 .header1 {
