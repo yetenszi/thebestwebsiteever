@@ -13,9 +13,9 @@ p {
        font-size: 25px;
 }
 
-div {
+.h1background {
        width: 9999999;
        height: 70;
        padding: 10px;
-       color: green;
+       background-color: green;
 }
