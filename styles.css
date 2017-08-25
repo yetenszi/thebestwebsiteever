@@ -2,20 +2,17 @@ html {
        background-color: black;
 }
 
-h1 {
-       color: lightgreen;
-       font-size: 50px;
-}
-
-.text {
+.text1 {
        color: white; 
        text-align: center;
        font-size: 35px;
 }
 
-.h1background {
+.header1 {
        width: 9999999;
        height: 70;
        padding: 10px;
        background-color: green;
+       color: lightgreen;
+       font-size: 50px;
 }
