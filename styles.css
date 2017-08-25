@@ -3,19 +3,28 @@ html {
 }
 
 @font-face {
-font-family: "Harabara Bold";
-src: url("css/fonts/Harabara.eot");
-src: 
-url("css/fonts/Harabara.woff") format("woff"),
-url("css/fonts/Harabara.otf") format("opentype"),
-url("css/fonts/Harabara.svg#filename") format("svg");
+    font-family: 'pixeledregular';
+    src: url('pixeled-webfont.woff2') format('woff2'),
+         url('pixeled-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'shelter_coderegular';
+    src: url('shelter_code-webfont.woff2') format('woff2'),
+         url('shelter_code-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
 }
 
 .text1 {
        color: white; 
        text-align: center;
        font-size: 35px;
-       font-family: "Comic Sans MS", cursive, sans-serif;
+       font-family: "shelter_coderegular", Arial, sans-serif;
 }
 
 .header1 {
@@ -26,5 +35,5 @@ url("css/fonts/Harabara.svg#filename") format("svg");
        color: black;
        font-size: 50px;
        text-align: center;
-       font-family: "Comic Sans MS", cursive, sans-serif;
+       font-family: "pixeledregular", Arial, sans-serif;
 }
