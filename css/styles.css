@@ -45,3 +45,7 @@ nav {
        font-family: "shelter_coderegular", Arial, sans-serif;
        background-color: lime;
 }
+
+.side-nav {
+       background-color: lime;      
+}
