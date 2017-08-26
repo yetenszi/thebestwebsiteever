@@ -37,3 +37,12 @@ p {
 	position: relative;
 	text-align: center;
 }
+
+.link {
+	font-size: 25px; 
+	position: absolute; 
+	bottom: 20px; 
+	left: 400px;	
+	font-family: "shelter_coderegular", Arial, sans-serif;
+	color: white;
+}
