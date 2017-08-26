@@ -40,3 +40,7 @@ html {
        position: relative;
    
 }    
+
+nav {
+       font-family: "shelter_coderegular", Arial, sans-serif;      
+}
