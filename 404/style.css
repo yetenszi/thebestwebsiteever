@@ -1,0 +1,39 @@
+html {
+	background-color: black;
+}
+
+@font-face {
+    font-family: 'pixeledregular';
+    src: url('https://yetenszi.github.io/thebestwebsiteever/fonts/pixeled-webfont.woff2') format('woff2'),
+         url('https://yetenszi.github.io/thebestwebsiteever/fonts/pixeled-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'shelter_coderegular';
+    src: url('https://yetenszi.github.io/thebestwebsiteever/fonts/shelter_code-webfont.woff2') format('woff2'),
+         url('https://yetenszi.github.io/thebestwebsiteever/fonts/shelter_code-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+h1 {
+	background-color: lime;
+	padding: 20px;
+	color: black;
+	font-size: 100px;
+	font-family: "pixeledregular", Arial, sans-serif;
+	position: relative;
+	text-align: center;
+}
+
+p {
+	color: white;
+	font-size: 50px;
+	font-family: "shelter_coderegular", Arial, sans-serif;
+	position: relative;
+	text-align: center;
+}
