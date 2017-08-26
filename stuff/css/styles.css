@@ -49,3 +49,7 @@ nav {
 .side-nav {
        background-color: lime;      
 }
+
+nav ul li a{
+  color: black;
+}  
